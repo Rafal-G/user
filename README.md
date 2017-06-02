@@ -1,3 +1,2 @@
-# lagom-java.g8
+User service using lagom.
 
-A Lagom Java seed template for sbt
